@@ -4,10 +4,10 @@
     <list default="true" id="83dad23e-35f1-4999-be82-082699401e9a" name="Default" comment="Test">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabAbstraction/src/CalcTriangleAreaMethod.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabAbstraction/src/EncryptSortPrintArr.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,21 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-488">
-              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CalcTriangleAreaMethod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LabAbstraction/src/CalcTriangleAreaMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#455#456#0" expanded="true" />
                 <element signature="e#495#496#0" expanded="true" />
@@ -62,11 +52,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EncryptSortPrintArr.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EncryptSortPrintArr.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LabAbstraction/src/EncryptSortPrintArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding>
+                <marker date="1506078845784" expanded="true" signature="32361:32378" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32361:32396" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32361:32409" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32361:32424" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32459:34616" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32472:34601" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32526:32821" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32545:32806" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32608:32786" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32648:32752" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32669:32730" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32871:33198" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32890:33183" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="32985:33163" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33025:33129" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33046:33107" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33249:33514" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33268:33499" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33301:33479" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33341:33445" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33362:33423" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33557:33863" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33576:33848" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33650:33828" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33690:33794" ph="..." />
+                <marker date="1506078845784" expanded="true" signature="33711:33772" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -117,9 +157,9 @@
         <option value="$PROJECT_DIR$/IntroToJavaExercise/src/VehiclePark.java" />
         <option value="$PROJECT_DIR$/IntroToJavaExercise/src/BlurFilter.java" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/LabAbstraction/src/CalcTriangleAreaMethod.java" />
         <option value="$PROJECT_DIR$/LabAbstraction/src/EncryptSortPrintArr.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -327,7 +367,7 @@
       <workItem from="1506015280931" duration="11597000" />
       <workItem from="1506059683970" duration="875000" />
       <workItem from="1506060592538" duration="740000" />
-      <workItem from="1506072140599" duration="3414000" />
+      <workItem from="1506072140599" duration="3850000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1506073036456</created>
@@ -336,11 +376,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506073036456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test">
+      <created>1506078441757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1506078441757</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49714000" />
+    <option name="totallyTimeSpent" value="50150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1374" height="728" extended-state="0" />
@@ -466,18 +513,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-488">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LabAbstraction/src/CalcTriangleAreaMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#455#456#0" expanded="true" />
             <element signature="e#495#496#0" expanded="true" />
@@ -487,8 +526,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LabAbstraction/src/EncryptSortPrintArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1506078845784" expanded="true" signature="32361:32378" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32361:32396" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32361:32409" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32361:32424" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32459:34616" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32472:34601" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32526:32821" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32545:32806" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32608:32786" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32648:32752" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32669:32730" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32871:33198" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32890:33183" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="32985:33163" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33025:33129" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33046:33107" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33249:33514" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33268:33499" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33301:33479" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33341:33445" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33362:33423" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33557:33863" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33576:33848" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33650:33828" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33690:33794" ph="..." />
+            <marker date="1506078845784" expanded="true" signature="33711:33772" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
           <folding />
         </state>
       </provider>
