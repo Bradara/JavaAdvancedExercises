@@ -17,13 +17,13 @@ public class SequenceInMatrix {
 
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
-                checkRow(matrix, i, j);
+                //checkRow(matrix, i, j);
                 checkCol(matrix, i, j);
                 checkDiag(matrix, i, j);
             }
         }
 
-        System.out.println("" + maxSequence);
+        System.out.println(maxSequence.toString().replaceAll("[\\[\\]]", ""));
 
     }
 
@@ -78,7 +78,7 @@ public class SequenceInMatrix {
     private static void testMaxSequence() {
         if (maxSequence.size() <= tempSequence.size()) {
             maxSequence.clear();
-            Collections.addAll(maxSequence, tempSequence);
+            maxSequence = new ArrayList<>(tempSequence);
         }
     }
 
