@@ -28,12 +28,12 @@ public class SequenceInMatrix {
     }
 
     private static void checkDiag(String[][] matrix, int row, int col) {
-        String str = matrix[row][col];
+        String str = matrix[row][col].toLowerCase();
         tempSequence.clear();
         tempSequence.add(str);
 
         for (int i = row + 1, j = col +1; i < matrix.length && j < matrix[row].length; i++, j++) {
-            if (str.equals(matrix[i][j])) {
+            if (str.equals(matrix[i][j].toLowerCase())) {
                 tempSequence.add(str);
             } else {
                 break;
@@ -44,12 +44,12 @@ public class SequenceInMatrix {
     }
 
     private static void checkCol(String[][] matrix, int row, int col) {
-        String str = matrix[row][col];
+        String str = matrix[row][col].toLowerCase();
         tempSequence.clear();
         tempSequence.add(str);
 
         for (int i = row + 1; i < matrix.length; i++) {
-            if (str.equals(matrix[i][col])) {
+            if (str.equals(matrix[i][col].toLowerCase())) {
                 tempSequence.add(str);
             } else {
                 break;
@@ -60,12 +60,12 @@ public class SequenceInMatrix {
     }
 
     private static void checkRow(String[][] matrix, int row, int col) {
-        String str = matrix[row][col];
+        String str = matrix[row][col].toLowerCase();
         tempSequence.clear();
         tempSequence.add(str);
 
         for (int k = col + 1; k < matrix[row].length; k++) {
-            if (str.equals(matrix[row][k])) {
+            if (str.equals(matrix[row][k].toLowerCase())) {
                 tempSequence.add(str);
             } else {
                 break;
