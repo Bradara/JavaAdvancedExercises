@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExerciseStringProcessing/ExerciseStringProcessing.iml" filepath="$PROJECT_DIR$/ExerciseStringProcessing/ExerciseStringProcessing.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercisesAbstraction/ExercisesAbstraction.iml" filepath="$PROJECT_DIR$/ExercisesAbstraction/ExercisesAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercisesAndLAb.iml" filepath="$PROJECT_DIR$/ExercisesAndLAb.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroToJavaExercise/IntroToJavaExercise.iml" filepath="$PROJECT_DIR$/IntroToJavaExercise/IntroToJavaExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/LabAbstraction/LabAbstraction.iml" filepath="$PROJECT_DIR$/LabAbstraction/LabAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/LabIntroToJava/LabIntroToJava.iml" filepath="$PROJECT_DIR$/LabIntroToJava/LabIntroToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringProcessingLab/StringProcessingLab.iml" filepath="$PROJECT_DIR$/StringProcessingLab/StringProcessingLab.iml" />
     </modules>
   </component>
 </project>

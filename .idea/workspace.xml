@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83dad23e-35f1-4999-be82-082699401e9a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExercisesAbstraction/src/PlusRemove.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExercisesAbstraction/src/TerroristWin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseStringProcessing/ExerciseStringProcessing.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseStringProcessing/src/CountSubString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseStringProcessing/src/SumBigNums.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringProcessingLab/StringProcessingLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringProcessingLab/src/ExtractTags.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringProcessingLab/src/ParseTags.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringProcessingLab/src/ParseUrl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringProcessingLab/src/SeriesOfLetters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringProcessingLab/src/StudentsREsults.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringProcessingLab/src/ValidUsernames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StringProcessingLab/src/VowelsCount.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExercisesAbstraction/src/SequenceInMatrix.java" afterPath="$PROJECT_DIR$/ExercisesAbstraction/src/SequenceInMatrix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LabAbstraction/src/PascalTriangle.java" afterPath="$PROJECT_DIR$/LabAbstraction/src/PascalTriangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExercisesAbstraction/src/PlusRemove.java" afterPath="$PROJECT_DIR$/ExercisesAbstraction/src/PlusRemove.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,55 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TerroristWin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesAbstraction/src/TerroristWin.java">
+      <file leaf-file-name="SumBigNums.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/SumBigNums.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaximumSum2x2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabAbstraction/src/MaximumSum2x2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SequenceInMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesAbstraction/src/SequenceInMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="871">
-              <caret line="67" column="55" lean-forward="false" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlusRemove.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesAbstraction/src/PlusRemove.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PascalTriangle.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LabAbstraction/src/PascalTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,8 +98,17 @@
         <option value="$PROJECT_DIR$/ExercisesAbstraction/src/MatrixShuffling.java" />
         <option value="$PROJECT_DIR$/ExercisesAbstraction/src/SequenceInMatrix.java" />
         <option value="$PROJECT_DIR$/ExercisesAbstraction/src/TerroristWin.java" />
-        <option value="$PROJECT_DIR$/ExercisesAbstraction/src/PlusRemove.java" />
         <option value="$PROJECT_DIR$/LabAbstraction/src/PascalTriangle.java" />
+        <option value="$PROJECT_DIR$/ExercisesAbstraction/src/PlusRemove.java" />
+        <option value="$PROJECT_DIR$/StringProcessingLab/src/StudentsREsults.java" />
+        <option value="$PROJECT_DIR$/StringProcessingLab/src/ParseTags.java" />
+        <option value="$PROJECT_DIR$/StringProcessingLab/src/SeriesOfLetters.java" />
+        <option value="$PROJECT_DIR$/StringProcessingLab/src/VowelsCount.java" />
+        <option value="$PROJECT_DIR$/StringProcessingLab/src/ExtractTags.java" />
+        <option value="$PROJECT_DIR$/StringProcessingLab/src/ParseUrl.java" />
+        <option value="$PROJECT_DIR$/StringProcessingLab/src/ValidUsernames.java" />
+        <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/CountSubString.java" />
+        <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/SumBigNums.java" />
       </list>
     </option>
   </component>
@@ -145,10 +119,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="8" />
-    <option name="y" value="3" />
-    <option name="width" value="642" />
-    <option name="height" value="498" />
+    <option name="y" value="19" />
+    <option name="width" value="683" />
+    <option name="height" value="749" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -166,10 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,23 +149,22 @@
             <path>
               <item name="ExercisesAndLAb" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExercisesAndLAb" type="462c0819:PsiDirectoryNode" />
-              <item name="IntroToJavaExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseStringProcessing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExercisesAndLAb" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExercisesAndLAb" type="462c0819:PsiDirectoryNode" />
-              <item name="LabAbstraction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExercisesAndLAb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExercisesAndLAb" type="462c0819:PsiDirectoryNode" />
-              <item name="LabAbstraction" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseStringProcessing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,10 +190,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PascalTriangle">
-    <configuration name="CollectTheCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CountSubString">
+    <configuration name="CountSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="CollectTheCoins" />
+      <option name="MAIN_CLASS_NAME" value="CountSubString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -234,12 +202,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExercisesAbstraction" />
+      <module name="ExerciseStringProcessing" />
       <envs />
     </configuration>
-    <configuration name="MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtractTags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MatrixShuffling" />
+      <option name="MAIN_CLASS_NAME" value="ExtractTags" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -248,12 +216,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExercisesAbstraction" />
+      <module name="StringProcessingLab" />
       <envs />
     </configuration>
-    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SeriesOfLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PascalTriangle" />
+      <option name="MAIN_CLASS_NAME" value="SeriesOfLetters" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -262,12 +230,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LabAbstraction" />
+      <module name="StringProcessingLab" />
       <envs />
     </configuration>
-    <configuration name="PlusRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="PlusRemove" />
+      <option name="MAIN_CLASS_NAME" value="ValidUsernames" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -276,12 +244,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExercisesAbstraction" />
+      <module name="StringProcessingLab" />
       <envs />
     </configuration>
-    <configuration name="TerroristWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="VowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TerroristWin" />
+      <option name="MAIN_CLASS_NAME" value="VowelsCount" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -290,7 +258,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExercisesAbstraction" />
+      <module name="StringProcessingLab" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -309,19 +277,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CollectTheCoins" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MatrixShuffling" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TerroristWin" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PlusRemove" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PascalTriangle" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SeriesOfLetters" />
+      <item index="1" class="java.lang.String" itemvalue="Application.VowelsCount" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ExtractTags" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ValidUsernames" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CountSubString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PascalTriangle" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PlusRemove" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TerroristWin" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MatrixShuffling" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CollectTheCoins" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CountSubString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ValidUsernames" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ExtractTags" />
+        <item index="3" class="java.lang.String" itemvalue="Application.VowelsCount" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SeriesOfLetters" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +324,10 @@
       <workItem from="1506242179037" duration="5275000" />
       <workItem from="1506267290284" duration="9731000" />
       <workItem from="1506305380722" duration="6775000" />
-      <workItem from="1506354667078" duration="804000" />
+      <workItem from="1506354667078" duration="22578000" />
+      <workItem from="1506451268120" duration="2061000" />
+      <workItem from="1506479077294" duration="2896000" />
+      <workItem from="1506528220538" duration="3373000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1506073036456</created>
@@ -407,14 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1506230202066</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated Pascal Triangle">
+      <created>1506355663713</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1506355663713</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104429000" />
+    <option name="totallyTimeSpent" value="134533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="3" width="1368" height="748" extended-state="6" />
+    <frame x="0" y="27" width="1366" height="716" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -422,14 +400,14 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.317757" sideWeight="0.5468521" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.317757" sideWeight="0.5468521" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.4885845" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.317757" sideWeight="0.4531479" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31825796" sideWeight="0.4531479" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19213313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -459,7 +437,8 @@
     <MESSAGE value="Added Solution for Abstraction Exercises Problem 6" />
     <MESSAGE value="Solution for Abstraction Exercises Problem 7" />
     <MESSAGE value="Solution for Abstraction Exercises Problem 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution for Abstraction Exercises Problem 8" />
+    <MESSAGE value="Updated Pascal Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Pascal Triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -475,22 +454,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IntroToJavaExercise/src/FormattingNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/IntroToJavaExercise/src/TriangleArea.java" />
-    <entry file="file://$PROJECT_DIR$/IntroToJavaExercise/src/FormattingNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/IntroToJavaExercise/src/TriangleArea.java" />
-    <entry file="file://$PROJECT_DIR$/IntroToJavaExercise/src/TriangleArea.java" />
-    <entry file="file://$PROJECT_DIR$/IntroToJavaExercise/src/TriangleArea.java" />
-    <entry file="file://$PROJECT_DIR$/LabIntroToJava/src/EuroTrip.java" />
-    <entry file="file://$PROJECT_DIR$/LabIntroToJava/src/ReadInput.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabIntroToJava/src/Greeting.java" />
     <entry file="file://$PROJECT_DIR$/LabIntroToJava/src/TransportPrice.java" />
     <entry file="file://$PROJECT_DIR$/LabIntroToJava/src/Numbers0to9.java" />
     <entry file="file://$PROJECT_DIR$/LabIntroToJava/src/ProductONumbers.java" />
@@ -607,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="18" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="10" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,9 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="12" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,9 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,7 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="48" column="25" lean-forward="false" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,9 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="25" column="55" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,7 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
           <caret line="6" column="91" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="107" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,42 +626,125 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesAbstraction/src/TerroristWin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="315">
           <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesAbstraction/src/SequenceInMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
+        <state relative-caret-position="1005">
           <caret line="67" column="55" lean-forward="false" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LabAbstraction/src/PascalTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesAbstraction/src/PlusRemove.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+        <state relative-caret-position="555">
+          <caret line="39" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LabAbstraction/src/PascalTriangle.java">
+    <entry file="file://$PROJECT_DIR$/StringProcessingLab/src/StudentsREsults.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringProcessingLab/src/ParseTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringProcessingLab/src/SeriesOfLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringProcessingLab/src/VowelsCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringProcessingLab/src/ExtractTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringProcessingLab/src/ParseUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringProcessingLab/src/ValidUsernames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/CountSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Свалени/jdk1.8.0_144/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/SumBigNums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

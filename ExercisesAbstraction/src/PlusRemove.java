@@ -23,31 +23,43 @@ public class PlusRemove {
         checkForPlus(matrix, mirrorMatrix);
 
         for (String[] str : matrix) {
-            System.out.println(String.join("", str));
+            for (String s : str) {
+                if (s!= " ") {
+                    System.out.print(s);
+                }
+            }
+            System.out.println();
         }
 
     }
 
     private static void checkForPlus(List<String[]> matrix, List<String[]> mirrorMatrix) {
-        for (int i = 1; i < matrix.size()-2; i++) {
-            for (int j = 1; j < matrix.get(i).length-1; j++) {
+        for (int i = 0; i < matrix.size() - 2; i++) {
+            for (int j = 1; j < matrix.get(i).length; j++) {
                 String token = mirrorMatrix.get(i)[j];
-                try{
-                    if (token.equals(mirrorMatrix.get(i+1)[j]) && token.equals(mirrorMatrix.get(i+1)[j-1])
-                            &&token.equals(mirrorMatrix.get(i+1)[j+1])&& token.equals(mirrorMatrix.get(i+2)[j])) {
+                try {
+                    if (token.equals(mirrorMatrix.get(i + 1)[j]) && token.equals(mirrorMatrix.get(i + 1)[j - 1])
+                            && token.equals(mirrorMatrix.get(i + 1)[j + 1]) && token.equals(mirrorMatrix.get(i + 2)[j])) {
                         removePlus(matrix, i, j);
                     }
-                }catch (Exception e){}
+                } catch (Exception e) {
+                }
             }
 
         }
     }
 
     private static void removePlus(List<String[]> matrix, int r, int c) {
-        matrix.set(r, matrix.get(r));
-        matrix.set(r+1)[c] = "";
-        matrix.set(r+1)[c-1] = "";
-        matrix.set(r+1)[c+1] = "";
-        matrix.set(r+2)[c] = "";
+        String[] row1 = matrix.get(r);
+        row1[c] = " ";
+        String[] row2 = matrix.get(r + 1);
+        row2[c] = " ";
+        row2[c - 1] = " ";
+        row2[c + 1] = " ";
+        String[] row3 = matrix.get(r + 2);
+        row3[c] = " ";
+        matrix.set(r, row1);
+        matrix.set(r + 1, row2);
+        matrix.set(r + 2, row3);
     }
 }
