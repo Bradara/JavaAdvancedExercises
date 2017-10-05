@@ -7,7 +7,7 @@ public class SumOfAllValues {
         Scanner scan = new Scanner(System.in);
         String keyStr = scan.nextLine();
         Double sum = 0D;
-        Pattern keyPat = Pattern.compile("^([a-zA-Z_]+)(?=\\d).+(?<=\\d)([a-zA-Z_]+)");
+        Pattern keyPat = Pattern.compile("^([a-zA-Z_]+)(?=\\d).+(?<=\\d)([a-zA-Z_]+)$");
         Matcher matcher = keyPat.matcher(keyStr);
         String startKey = "";
         String endKey = "";
