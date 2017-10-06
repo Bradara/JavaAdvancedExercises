@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExerciseCollection/ExerciseCollection.iml" filepath="$PROJECT_DIR$/ExerciseCollection/ExerciseCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciseDataManipulation/ExerciseDataManipulation.iml" filepath="$PROJECT_DIR$/ExerciseDataManipulation/ExerciseDataManipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciseStringProcessing/ExerciseStringProcessing.iml" filepath="$PROJECT_DIR$/ExerciseStringProcessing/ExerciseStringProcessing.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercisesAbstraction/ExercisesAbstraction.iml" filepath="$PROJECT_DIR$/ExercisesAbstraction/ExercisesAbstraction.iml" />

@@ -1,11 +1,12 @@
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
 
 public class Party {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        Set<String> vipGuests = new HashSet<>();
+        Set<String> vipGuests = new LinkedHashSet<>();
         Set<String> guests = new HashSet<>();
         String input = scan.nextLine();
 
@@ -21,8 +22,9 @@ public class Party {
 
         while (!"END".equals(input)) {
             if (Character.isDigit(input.charAt(0))) {
+                if (vipGuests.contains(input))
                 vipGuests.remove(input);
-            } else {
+            } else if(guests.contains(input)){
                 guests.remove(input);
             }
             input = scan.nextLine();
