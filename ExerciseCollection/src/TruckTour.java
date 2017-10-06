@@ -17,19 +17,27 @@ public class TruckTour {
         for (int i = 0; i < n; i++) {
             long tank = 0;
             boolean tankIsEmpty = true;
-            long[] station = deque.getFirst();
+            long[] station = deque.pop();
             if (station[0] >= station[1]) {
                 tank += station[0] - station[1];
                 tankIsEmpty  = false;
-                for (int j = 0; j < n; j++) {
+                for (int j = 0; j < n-1; j++) {
                     deque.addLast(station);
-                    station = deque.getFirst();
+                    station = deque.pop();
                     tank += station[0];
-                    deque.addLast(station);
                     if (tank < station[1]) {
                         tankIsEmpty = true;
+                        break;
                     }
+                    tank -= station[1];
                 }
+            } else{
+                deque.addLast(station);
+            }
+
+            if (!tankIsEmpty){
+                System.out.println(i);
+                break;
             }
         }
 
