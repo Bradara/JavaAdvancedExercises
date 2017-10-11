@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExerciseCollection/ExerciseCollection.iml" filepath="$PROJECT_DIR$/ExerciseCollection/ExerciseCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciseDataManipulation/ExerciseDataManipulation.iml" filepath="$PROJECT_DIR$/ExerciseDataManipulation/ExerciseDataManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/ExerciseFunctionalPrograming.iml" filepath="$PROJECT_DIR$/ExerciseFunctionalPrograming/ExerciseFunctionalPrograming.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExerciseStringProcessing/ExerciseStringProcessing.iml" filepath="$PROJECT_DIR$/ExerciseStringProcessing/ExerciseStringProcessing.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercisesAbstraction/ExercisesAbstraction.iml" filepath="$PROJECT_DIR$/ExercisesAbstraction/ExercisesAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercisesAndLAb.iml" filepath="$PROJECT_DIR$/ExercisesAndLAb.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/LabAbstraction/LabAbstraction.iml" filepath="$PROJECT_DIR$/LabAbstraction/LabAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/LabCollection/LabCollection.iml" filepath="$PROJECT_DIR$/LabCollection/LabCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/LabDataManipulation/LabDataManipulation.iml" filepath="$PROJECT_DIR$/LabDataManipulation/LabDataManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabFunctionalPrograming/LabFunctionalPrograming.iml" filepath="$PROJECT_DIR$/LabFunctionalPrograming/LabFunctionalPrograming.iml" />
       <module fileurl="file://$PROJECT_DIR$/LabIntroToJava/LabIntroToJava.iml" filepath="$PROJECT_DIR$/LabIntroToJava/LabIntroToJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringProcessingLab/StringProcessingLab.iml" filepath="$PROJECT_DIR$/StringProcessingLab/StringProcessingLab.iml" />
     </modules>
