@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83dad23e-35f1-4999-be82-082699401e9a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseFunctionalPrograming/ExerciseFunctionalPrograming.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/ConsumerPrint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/CustomMinFunction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/FindEvenOrOdds.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/KnightsOfHonnor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabFunctionalPrograming/LabFunctionalPrograming.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabFunctionalPrograming/src/AddVat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabFunctionalPrograming/src/CountUpperCaseWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabFunctionalPrograming/src/SortByAge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabFunctionalPrograming/src/SortEvenNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabFunctionalPrograming/src/SumNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/AppliedArithmetic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/LabStreamAPI.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/AverageDouble.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/BoundedNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/FindAndSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/FirstName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/MapDistrict.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/MinEvenNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/TakeTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LabStreamAPI/src/UpperStrings.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/FindEvenOrOdds.java" afterPath="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/FindEvenOrOdds.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HandsOfCards.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerciseCollection/src/HandsOfCards.java">
+      <file leaf-file-name="MapDistrict.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/MapDistrict.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            <state relative-caret-position="241">
+              <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,107 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortEvenNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabFunctionalPrograming/src/SortEvenNumbers.java">
+      <file leaf-file-name="BoundedNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/BoundedNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabFunctionalPrograming/src/SumNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountUpperCaseWords.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabFunctionalPrograming/src/CountUpperCaseWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddVat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabFunctionalPrograming/src/AddVat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortByAge.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabFunctionalPrograming/src/SortByAge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConsumerPrint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/ConsumerPrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KnightsOfHonnor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/KnightsOfHonnor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomMinFunction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/CustomMinFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindEvenOrOdds.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/FindEvenOrOdds.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="51">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,16 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/StringProcessingLab/src/VowelsCount.java" />
-        <option value="$PROJECT_DIR$/StringProcessingLab/src/ExtractTags.java" />
-        <option value="$PROJECT_DIR$/StringProcessingLab/src/ParseUrl.java" />
-        <option value="$PROJECT_DIR$/StringProcessingLab/src/ValidUsernames.java" />
-        <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/CountSubString.java" />
-        <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/SumBigNums.java" />
-        <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/TextFilter.java" />
-        <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/UnicodeCharacters.java" />
-        <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/Palindromes.java" />
-        <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/MagicExchangableWords.java" />
         <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/LettersChangeNumbers.java" />
         <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/MelrahShake.java" />
         <option value="$PROJECT_DIR$/ExerciseStringProcessing/src/MatchFullName.java" />
@@ -225,6 +120,16 @@
         <option value="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/KnightsOfHonnor.java" />
         <option value="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/CustomMinFunction.java" />
         <option value="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/FindEvenOrOdds.java" />
+        <option value="$PROJECT_DIR$/ExerciseFunctionalPrograming/src/AppliedArithmetic.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/TakeTwo.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/UpperStrings.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/FirstName.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/AverageDouble.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/MinEvenNumber.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/Test.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/FindAndSum.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/MapDistrict.java" />
+        <option value="$PROJECT_DIR$/LabStreamAPI/src/BoundedNumbers.java" />
       </list>
     </option>
   </component>
@@ -255,6 +160,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -263,23 +170,10 @@
               <item name="ExercisesAndLAb" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExercisesAndLAb" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ExercisesAndLAb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExercisesAndLAb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExerciseFunctionalPrograming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExercisesAndLAb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExercisesAndLAb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExerciseFunctionalPrograming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -306,10 +200,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CustomMinFunction">
-    <configuration name="AddVat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.BoundedNumbers">
+    <configuration name="BoundedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="AddVat" />
+      <option name="MAIN_CLASS_NAME" value="BoundedNumbers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -318,12 +212,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LabFunctionalPrograming" />
+      <module name="LabStreamAPI" />
       <envs />
     </configuration>
-    <configuration name="ConsumerPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FindAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ConsumerPrint" />
+      <option name="MAIN_CLASS_NAME" value="FindAndSum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -332,12 +226,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExerciseFunctionalPrograming" />
+      <module name="LabStreamAPI" />
       <envs />
     </configuration>
-    <configuration name="CustomMinFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MapDistrict" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="CustomMinFunction" />
+      <option name="MAIN_CLASS_NAME" value="MapDistrict" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -346,12 +240,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExerciseFunctionalPrograming" />
+      <module name="LabStreamAPI" />
       <envs />
     </configuration>
-    <configuration name="KnightsOfHonnor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MinEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="KnightsOfHonnor" />
+      <option name="MAIN_CLASS_NAME" value="MinEvenNumber" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -360,12 +254,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ExerciseFunctionalPrograming" />
+      <module name="LabStreamAPI" />
       <envs />
     </configuration>
-    <configuration name="SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="SumNumbers" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -374,7 +268,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LabFunctionalPrograming" />
+      <module name="LabStreamAPI" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -393,19 +287,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SumNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AddVat" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ConsumerPrint" />
-      <item index="3" class="java.lang.String" itemvalue="Application.KnightsOfHonnor" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CustomMinFunction" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MinEvenNumber" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindAndSum" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MapDistrict" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BoundedNumbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CustomMinFunction" />
-        <item index="1" class="java.lang.String" itemvalue="Application.KnightsOfHonnor" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ConsumerPrint" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AddVat" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SumNumbers" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BoundedNumbers" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MapDistrict" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindAndSum" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MinEvenNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +359,10 @@
       <workItem from="1507568885777" duration="31000" />
       <workItem from="1507571738608" duration="11513000" />
       <workItem from="1507662234400" duration="2620000" />
-      <workItem from="1507699484319" duration="356000" />
+      <workItem from="1507699484319" duration="3746000" />
+      <workItem from="1507911928914" duration="918000" />
+      <workItem from="1507912944007" duration="21981000" />
+      <workItem from="1508048646553" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1506073036456</created>
@@ -544,11 +441,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507181519475</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Solution for Exercise Functional Programing.">
+      <created>1507699894061</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1507699894061</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239062000" />
+    <option name="totallyTimeSpent" value="265496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,7 +464,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="87" width="1366" height="742" extended-state="6" />
+    <frame x="0" y="26" width="1366" height="742" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
@@ -569,8 +473,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3127962" sideWeight="0.5937042" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29001585" sideWeight="0.40629575" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.3283082" sideWeight="0.4885845" order="10" side_tool="false" content_ui="tabs" x="22" y="287" width="1322" height="196" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3127962" sideWeight="0.40629575" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -580,13 +484,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3920635" sideWeight="0.47071743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39336494" sideWeight="0.47071743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262295" sideWeight="0.47276855" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32539684" sideWeight="0.47276855" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -609,7 +513,8 @@
     <MESSAGE value="Updated Pascal Triangle" />
     <MESSAGE value="Solution for Lab String processing" />
     <MESSAGE value="Solution for String processing to problem 14 70/100." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution for String processing to problem 14 70/100." />
+    <MESSAGE value="Solution for Exercise Functional Programing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution for Exercise Functional Programing." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -673,122 +578,18 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LabStreamAPI/src/Test.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/CountSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Свалени/jdk1.8.0_144/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/SumBigNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/TextFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/UnicodeCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/Palindromes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/MagicExchangableWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/LettersChangeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/MelrahShake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/MatchFullName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/ReplaceATag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/ValidPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabDataManipulation/src/RecursiveFactorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabDataManipulation/src/RecursiveArraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabDataManipulation/src/Sorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/SumOfAllValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="9" column="85" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExerciseStringProcessing/src/SentenceExtractor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -987,9 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -997,9 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="14" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1007,9 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,9 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="20" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1027,9 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1037,19 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/ConsumerPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1057,9 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1067,16 +837,153 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/FindEvenOrOdds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/TakeTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Свалени/jdk1.8.0_144/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="53" column="52" lean-forward="true" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/UpperStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/AppliedArithmetic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/ConsumerPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/FirstName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerciseFunctionalPrograming/src/FindEvenOrOdds.java">
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/AverageDouble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Свалени/jdk1.8.0_144/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="208" column="45" lean-forward="true" selection-start-line="208" selection-start-column="45" selection-end-line="208" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Свалени/jdk1.8.0_144/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3069">
+          <caret line="912" column="0" lean-forward="true" selection-start-line="912" selection-start-column="0" selection-end-line="912" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/MinEvenNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/FindAndSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Свалени/jdk1.8.0_144/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Свалени/jdk1.8.0_144/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-359">
+          <caret line="374" column="14" lean-forward="false" selection-start-line="374" selection-start-column="14" selection-end-line="374" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Свалени/jdk1.8.0_144/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901">
+          <caret line="49" column="19" lean-forward="false" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/BoundedNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabStreamAPI/src/MapDistrict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
